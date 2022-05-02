@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.lorem-text {
+    max-width:500px;
+    width: 100%;
+    margin: 0 auto 30px;
+}
+
+.text-holder {
+    background-color: rgb(209, 209, 202);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.text-container {
+    background-color: rgb(209, 209, 202);
+    border-radius: 20px;
+    max-width:500px;
+    width: 100%;
+    margin: 0 auto 30px;   
+}
+
+.active {
+    visibility: visible;
+}
+
+#textarea {
+    width: 500px;
+}
+
+.lorem-text-holder {
+    padding: 20px;
+}
